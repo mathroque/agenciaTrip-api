@@ -21,11 +21,13 @@ public class DestinoModel implements Serializable {
 	@GeneratedValue(strategy = GenerationType.AUTO)
 	private UUID id;
 	@Column(nullable = false)
-	private String titulo;
+	private String destino;
 	@Column(nullable = false)
-	private String descricao;
+	private String origem;
 	@Column(nullable = false)
 	private String imagem;
+	@Column(nullable = false)
+	private Double valor;
 
 	public UUID getId() {
 		return id;
@@ -35,20 +37,20 @@ public class DestinoModel implements Serializable {
 		this.id = id;
 	}
 
-	public String getTitulo() {
-		return titulo;
+	public String getDestino() {
+		return destino;
 	}
 
-	public void setTitulo(String titulo) {
-		this.titulo = titulo;
+	public void setDestino(String titulo) {
+		this.destino = titulo;
 	}
 
-	public String getDescricao() {
-		return descricao;
+	public String getOrigem() {
+		return origem;
 	}
 
-	public void setDescricao(String descricao) {
-		this.descricao = descricao;
+	public void setOrigem(String descricao) {
+		this.origem = descricao;
 	}
 
 	public String getImagem() {
@@ -62,5 +64,15 @@ public class DestinoModel implements Serializable {
 	public static long getSerialversionuid() {
 		return serialVersionUID;
 	}
+
+	public Double getValor() {
+		return valor;
+	}
+
+	public void setValor(Double valor) {
+		this.valor = valor;
+	}
+	
+	
 
 }
