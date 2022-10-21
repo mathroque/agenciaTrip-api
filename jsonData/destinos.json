@@ -1,0 +1,88 @@
+[
+  {
+    "destino": "Roma (Itália)",
+    "origem": "Rio de Janeiro",
+    "imagem": "https://www.romapravoce.com/wp-content/uploads/2019/11/o-que-fazer-em-roma.jpg",
+    "valor": 6199.0
+  },
+  {
+    "destino": "Patan (Nepal)",
+    "origem": "São Paulo",
+    "imagem": "https://media.iatiseguros.com/wp-content/uploads/sites/6/2020/03/25144935/telhados-cidade-patan-nepal.jpg",
+    "valor": 8099.0
+  },
+  {
+    "destino": "Berlim (Alemanha)",
+    "origem": "Salvador",
+    "imagem": "https://www.passagenspromo.com.br/blog/wp-content/uploads/2019/08/o-que-fazer-em-berlim-740x415.jpeg",
+    "valor": 7999.0
+  },
+  {
+    "destino": "Calgary (Canadá)",
+    "origem": "Porto Alegre",
+    "imagem": "https://www.cicnews.com/wp-content/uploads/2022/08/emerald-lake-in-canada-picture-id1007031396-1-524x349.jpg",
+    "valor": 5999.0
+  },
+  {
+    "destino": "Rabat (Marrocos)",
+    "origem": "Rio de Janeiro",
+    "imagem": "https://www.frs.es/fileadmin/_processed_/3/7/csm_csm-frs-iberia-destinos-rabat_06cdf5682b.jpg",
+    "valor": 6299.0
+  },
+  {
+    "destino": "Santiago (Chile)",
+    "origem": "Salvador",
+    "imagem": "http://sweetway.com.br/wp-content/uploads/2019/01/tudo-o-que-voce-precisa-saber-sobre-santiago-no-chile.jpg",
+    "valor": 2499.0
+  },
+  {
+    "destino": "Machu Picchu (Peru)",
+    "origem": "Rio de Janeiro",
+    "imagem": "https://blog.livareviagens.com.br/wp-content/uploads/2020/10/machu-picchu-e-a-cidade-perdida-dos-incas-opt-1200x675.jpg",
+    "valor": 5499.0
+  },
+  {
+    "destino": "Mendoza (Argentina)",
+    "origem": "Porto Alegre",
+    "imagem": "https://cache.quantocustaviajar.com/blog/wp-content/uploads/2016/04/mendoza7.jpg",
+    "valor": 4099.0
+  },
+  { "destino": "Auckland (Nova Zelândia)", "origem": "São Paulo", "imagem": "https://cdn.travelsafe-abroad.com/wp-content/uploads/CcN35a7.jpg", "valor": 7399.0 },
+  {
+    "destino": "Bariloche (Argentina)",
+    "origem": "São Paulo",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCQkkhcEZlrYMa-j375Zu1jf9ZuiD1x1jNndqgk0qK7cJudD2GZ5kCzOtA1_IwepwzPY&usqp=CAU",
+    "valor": 3999.0
+  },
+  {
+    "destino": "Osaka (Japão)",
+    "origem": "Rio de Janeiro",
+    "imagem": "https://www.japaoemfoco.com/wp-content/uploads/2015/08/Dotonbori-Ponte-Ebisu-Osaka-commons.wikimedia.org_.jpg",
+    "valor": 8099.0
+  },
+  { "destino": "Pequim (China)", "origem": "Porto Alegre", "imagem": "https://chinavistos.com.br/wp-content/uploads/2017/12/cidade-de-Pequim-1.jpg", "valor": 6599.0 },
+  {
+    "destino": "Galápagos (Equador)",
+    "origem": "Salvador",
+    "imagem": "https://travel.home.sndimg.com/content/dam/images/travel/fullset/2014/07/15/91/visiting-the-galapagos-when-to-go.rend.hgtvcom.616.347.suffix/1491584422518.jpeg",
+    "valor": 6899.0
+  },
+  {
+    "destino": "Cidade do México (México)",
+    "origem": "Salvador",
+    "imagem": "https://r4t2s9v3.stackpathcdn.com/wp-content/uploads/2018/10/cidade-do-mexico.jpg",
+    "valor": 3899.0
+  },
+  {
+    "destino": "La Paz (Bolívia)",
+    "origem": "Salvador",
+    "imagem": "https://www.submarinoviagens.com.br/bora-nessa-trip/wp-content/uploads/2020/11/bolivia-la-paz_-1.jpg",
+    "valor": 2499.0
+  },
+  {
+    "destino": "Caracas (Venezuela)",
+    "origem": "Salvador",
+    "imagem": "https://www.flytap.com/-/media/Flytap/new-tap-pages/destinations/south-america/venezuela/caracas/caracas-banner-mobile-1024x553.jpg",
+    "valor": 2599.0
+  }
+]

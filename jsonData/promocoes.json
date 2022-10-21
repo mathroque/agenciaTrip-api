@@ -1,0 +1,146 @@
+[
+  {
+    "pais": "Peru",
+    "cidade": "Machu Picchu",
+    "desconto": 25,
+    "valor": 2850.0,
+    "ano": 2023,
+    "imagem": "https://www.passagenspromo.com.br/blog/wp-content/uploads/2019/09/viagem-para-machu-picchu-dicas-740x415.jpg",
+    "continente": "América do sul"
+  },
+  {
+    "pais": "Escócia",
+    "cidade": "Edimburgo",
+    "desconto": 50,
+    "valor": 1850.0,
+    "ano": 2027,
+    "imagem": "https://lalarebelo.com/wp-content/uploads/2016/08/calton-hill-edinburgh.jpg",
+    "continente": "Europa"
+  },
+  {
+    "pais": "Tailândia",
+    "cidade": "Ao Nang (Krabi)",
+    "desconto": 50,
+    "valor": 3250.0,
+    "ano": 2026,
+    "imagem": "https://media-cdn.tripadvisor.com/media/photo-s/02/28/ae/31/ao-nang-beach.jpg",
+    "continente": "Ásia"
+  },
+  {
+    "pais": "Alemanha",
+    "cidade": "Berlim",
+    "desconto": 20,
+    "valor": 4999.0,
+    "ano": 2023,
+    "imagem": "https://www.passagenspromo.com.br/blog/wp-content/uploads/2019/08/o-que-fazer-em-berlim-740x415.jpeg",
+    "continente": "Europa"
+  },
+  {
+    "pais": "Chile",
+    "cidade": "Santiago",
+    "desconto": 35,
+    "valor": 1250.0,
+    "ano": 2025,
+    "imagem": "http://sweetway.com.br/wp-content/uploads/2019/01/tudo-o-que-voce-precisa-saber-sobre-santiago-no-chile.jpg",
+    "continente": "América do sul"
+  },
+  {
+    "pais": "Argentina",
+    "cidade": "Mendoza",
+    "desconto": 25,
+    "valor": 899.0,
+    "ano": 2024,
+    "imagem": "https://media-cdn.tripadvisor.com/media/photo-s/01/55/85/35/provincia-de-mendoza.jpg",
+    "continente": "América do sul"
+  },
+  {
+    "pais": "Itália",
+    "cidade": "Roma",
+    "desconto": 15,
+    "valor": 3500.0,
+    "ano": 2025,
+    "imagem": "https://benditacidadania.com.br/wp-content/uploads/2021/02/roma-capital-da-italia.jpg.webp",
+    "continente": "Europa"
+  },
+  {
+    "pais": "Brasil",
+    "cidade": "Salvador",
+    "desconto": 25,
+    "valor": 1500.0,
+    "ano": 2024,
+    "imagem": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/30/e9/c4/photo0jpg.jpg?w=600&h=-1&s=1",
+    "continente": "América do sul"
+  },
+  {
+    "pais": "Tailândia",
+    "cidade": "Ao Nang (Krabi)",
+    "desconto": 30,
+    "valor": 5900.0,
+    "ano": 2023,
+    "imagem": "https://media-cdn.tripadvisor.com/media/photo-s/02/28/ae/31/ao-nang-beach.jpg",
+    "continente": "Ásia"
+  },
+  {
+    "pais": "Tailândia",
+    "cidade": "Bangkok",
+    "desconto": 10,
+    "valor": 4200.0,
+    "ano": 2024,
+    "imagem": "https://turistaprofissional.com/wp-content/uploads/2017/11/grand-palace-bangkok.jpg",
+    "continente": "Ásia"
+  },
+  {
+    "pais": "Japão",
+    "cidade": "Tokyo",
+    "desconto": 10,
+    "valor": 5850.0,
+    "ano": 2024,
+    "imagem": "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/02/passagens-aereas-tokyo-capa2019-01.jpg",
+    "continente": "Ásia"
+  },
+  {
+    "pais": "Espanha",
+    "cidade": "Madrid",
+    "desconto": 10,
+    "valor": 4850.0,
+    "ano": 2025,
+    "imagem": "https://www.eurodicas.com.br/wp-content/uploads/2019/06/capital-da-espanha.jpg",
+    "continente": "Europa"
+  },
+  {
+    "pais": "África do Sul",
+    "cidade": "Cidade do Cabo",
+    "desconto": 10,
+    "valor": 4850.0,
+    "ano": 2025,
+    "imagem": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/2e/1e/cape-town.jpg?w=700&h=-1&s=1",
+    "continente": "África"
+  },
+  {
+    "pais": "Madagascar",
+    "cidade": "Antananarivo",
+    "desconto": 40,
+    "valor": 6850.0,
+    "ano": 2026,
+    "imagem": "https://www.onde-e-quando.net/site/images/illustration/oualler/madagascar-antananarivo_333.jpg",
+    "continente": "África"
+  },
+  {
+    "pais": "Marrocos",
+    "cidade": "Rabat",
+    "desconto": 15,
+    "valor": 5199.0,
+    "ano": 2025,
+    "imagem": "https://www.visitmorocco.com/sites/default/files/styles/thumbnail_destination_background_top5/public/thumbnails/image/tour-hassan-rabat-morocco-by-migel.jpg?itok=YP8GLwSi",
+    "continente": "África"
+  },
+  {
+    "pais": "Moçambique",
+    "cidade": "Maputo",
+    "desconto": 15,
+    "valor": 4550.0,
+    "ano": 2024,
+    "imagem": "https://www.melhoresdestinos.com.br/wp-content/uploads/2017/05/maputo-mocambique-dicas_1214-800x534.jpg",
+    "continente": "África"
+  }
+]
